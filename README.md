@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/noname-17/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/noname-17/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/noname-17/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/noname-17/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noname-17/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/noname-17/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/noname-17/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/noname-17/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/noname-17/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/noname-17/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/noname-17/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/noname-17/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/noname-17/leetcode_solutions/tree/master/0042-trapping-rain-water) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/noname-17/leetcode_solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/noname-17/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/noname-17/leetcode_solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/noname-17/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/noname-17/leetcode_solutions/tree/master/0217-contains-duplicate) |
